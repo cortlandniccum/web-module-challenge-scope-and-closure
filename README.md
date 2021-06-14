@@ -9,7 +9,9 @@ The module challenge is the afternoon project or assignment that students work t
 ## Objectives
 
 - Explain function scope
-- Describe what closure is, how closure is created in a program and why it is important to understand closures in JavaScript  
+Function scope is when you have a variable define within a function and that variable only exists inside of that function.
+- Describe what closure is, how closure is created in a program and why it is important to understand closures in JavaScript
+its the combination of a funtion and the lexical environment within which that function was declared. 
 
 ## Introduction
 
@@ -43,6 +45,7 @@ Find the file `index.js` and complete the tasks.
 Edit the `ReadMe` file with your answers.
 
 1. In your own words, define closure (1-2 sentences).
+it is the combination of a funtion and the corresponding valuables within that funtion
 2. Study the following code, then answer the questions below.
 
 ```js
